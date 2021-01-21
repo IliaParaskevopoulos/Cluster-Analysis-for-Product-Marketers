@@ -1,0 +1,2 @@
+# Cluster-Analysis-for-Product-Marketers
+Customer Segmentation is a core task for Product Marketers. Applying cluster analysis on a hypothetical customer database enables PMs to extract the precise number and exact temperament of the company's Customer Personas. I wrote a case study as if I was a B2B business with retail stores as clients and I found 4 segments where different Marketing should be employed.
